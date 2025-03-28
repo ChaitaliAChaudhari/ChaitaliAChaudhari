@@ -1,5 +1,5 @@
  💫 About Me:
- 👋 Hey there, I'm Chaitali!  <br>💻 **Software Engineer | Full-Stack Developer | AI Enthusiast**  <br><br>🚀 Passionate about coding, building scalable applications, and exploring AI & machine learning. I enjoy solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech world.  <br><br>🌱 Beyond Code  <br>I love **photography, arts, singing, and content creation.**  <br><br>📫 Let's Connect!  <br>🔗 [LinkedIn](https://www.linkedin.com/in/chaitali-chaudhari-932698207/) <br>
+ 👋 Hey there, I'm Chaitali!  <br>💻 **Software Engineer | Full-Stack Developer | AI Enthusiast**  <br><br>🚀 Passionate about coding, building scalable applications, and exploring AI & machine learning. I enjoy solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech world.  <br><br>🌱 Beyond Code  <br>I love **photography, arts, singing.**  <br><br>📫 Let's Connect!  <br>🔗 [LinkedIn](https://www.linkedin.com/in/chaitali-chaudhari-932698207/) <br>
 
 
 # 💻 Tech Stack:
